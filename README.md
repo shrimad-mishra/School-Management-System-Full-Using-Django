@@ -5,6 +5,7 @@ This app is meant to be used by school manager to manage their school records: s
 ## Starting Login Credentials:-
 
   username: admin
+  
   password: admin123
   
 ## Steps to get the code running:-
